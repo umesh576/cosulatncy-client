@@ -1,0 +1,25 @@
+{
+  "name": "rising-home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "bootstrap": "^5.3.3",
+    "next": "15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "swiper": "^11.2.6",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.13"
+  }
+}
